@@ -23,7 +23,6 @@ Unlike existing single-modality solutions, DeepScan integrates multiple detectio
 > **Guide:** Prof. Rajiv Misra, Professor, CSE Department
 
 ---
-
 ## 🎯 Key Features
 
 - 🖼️ **Image Detection** — XceptionNet-based face manipulation and GAN detection
